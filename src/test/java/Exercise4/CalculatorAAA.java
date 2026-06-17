@@ -1,4 +1,5 @@
-import Exercise4.Calculatorthree;
+package Exercise4;
+
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
